@@ -1,0 +1,22 @@
+p, h1 {
+    text-align: center;
+    
+}
+ol, li {
+    list-style: none;
+}
+ol {
+    color: aliceblue;
+}
+
+ol:active {
+    color: rgb(0, 112, 240);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ol:hover {
+    background-color: rgb(78, 168, 146);
+}
+div {
+    background-color: rgb(59, 116, 92);
+}
+
