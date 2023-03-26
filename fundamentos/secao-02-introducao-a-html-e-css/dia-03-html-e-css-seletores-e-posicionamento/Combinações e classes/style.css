@@ -1,0 +1,39 @@
+ol li {
+    background-color: yellow;
+    font-weight: bolder;
+
+}
+li {
+ font-size: 20px;   
+}
+
+.impar {
+    text-transform: uppercase;
+}
+
+.par {
+    color: green;
+}
+
+.italic {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+.header {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+.pink {
+    background-color: pink;
+}
+.alies:hover {
+    color: white;
+    font-weight: bolder;
+}
+.stack {
+    background-color: orange;
+}
